@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: rgb(255, 0, 0);
+    background-image: url(https://d3ui957tjb5bqd.cloudfront.net/uploads/2016/07/popular-90s-websites-007.gif);
+    background-repeat: repeat;
+    background-size: 350px;
+    font-family: Comic Sans MS;
+}
+section.one {
+    background-color: rgb(50,101,152);
+    font-family: eco, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+section.three {
+    font-family: Papyrus, fantasy;
+}
+img{
+    max-width: 400px;
+    border-radius: 20px;
+    margin: 20px;
+}
